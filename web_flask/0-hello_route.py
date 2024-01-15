@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
-#Starts Flask web aplication
+#Starts flask web aplication
 from flask import Flask, request
+
 
 app = Flask(__name__)
 
